@@ -43,3 +43,12 @@ if (idade >= 18) {
 } 
 // 
 
+// Fourth request
+
+let quantidadeDeParticipantes = listaDeParticipantes.length;
+if (quantidadeDeParticipantes <= 99) {
+  listaDeParticipantes.push(" Fabio");
+} else {
+  console.log("Limite de participantes excedido!");
+}
+// 
