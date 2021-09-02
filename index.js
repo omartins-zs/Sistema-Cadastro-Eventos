@@ -19,3 +19,17 @@ for (let indice = 0; indice < quantidadeDePalestrante; indice++) {
   console.log(PalestranteDoEvento);
 }
 //
+
+// First request
+let dataEvento = "20/08/2023";
+
+if (dataEvento <= "20/08/2023") {
+    console.log("Digite sua idade" + "\n");
+} else {
+    console.log(
+      "O cadastro não pode ser efetuado, pois a data é inválida!" + "\n"
+    );
+}
+
+// 
+
