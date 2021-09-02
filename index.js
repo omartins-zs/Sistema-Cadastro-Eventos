@@ -52,3 +52,9 @@ if (quantidadeDeParticipantes <= 99) {
   console.log("Limite de participantes excedido!");
 }
 // 
+
+// Third request Participantes
+
+console.log(
+  "Estes são os participantes : " + "\n" + listaDeParticipantes
+);
