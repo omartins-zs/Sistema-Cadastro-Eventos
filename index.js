@@ -33,3 +33,13 @@ if (dataEvento <= "20/08/2023") {
 
 // 
 
+// Second request
+let idade = 18;
+
+if (idade >= 18) {
+    console.log("Digite seu nome" + "\n");
+} else {
+    console.log("Voce não pode se cadastrar para o evento devido sua idade!");
+} 
+// 
+
